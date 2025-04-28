@@ -1,0 +1,14 @@
+*.pyc
+.vscode
+output
+build
+diff_rasterization/diff_rast.egg-info
+diff_rasterization/dist
+tensorboard_3d
+screenshots
+
+data/
+downloads/
+output/
+
+tele-sync-455613-a5fafa094e4f.json
